@@ -3,7 +3,8 @@
 Este projeto foi realizado durante o curso Tech Foundation da Alura com o objetivo de praticar a extração, manipulação, limpeza e análise de dados.
 
 🎥 **Assista ao Dashboard em ação**  
-➡️ [Visualizar o vídeo do projeto no GitHub](https:/
+➡️ [Visualizar o vídeo do projeto no GitHub](https://github.com/carolsabara/Alura_store/blob/main/Alura_Store_Dash.pbix)
+
 
 Dashboard interativo em **Power BI** desenvolvido com as análises explorando faturamento, média da avaliação da loja, média de frete, quais produtos tem maior e menor volume de vendas.  
 
