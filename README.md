@@ -1,6 +1,6 @@
 # 📊 Análise da performace de quatro lojas Alura Store
 
-Este projeto foi realizado durante o curso Tech Foundation da Alura com o objetivo de praticar a extração, manipulação, limpeza e análise de dados fornecidos para indicar para o empreendedor qual loja deveria ser vendida.
+Este projeto foi realizado durante o curso Tech Foundation da Alura com o objetivo de praticar a extração, manipulação, limpeza e análise de dados.
 
 🎥 **Assista ao Dashboard em ação**  
 ➡️ [Visualizar o vídeo do projeto no GitHub](https:/
@@ -30,7 +30,7 @@ O foco da análise foi investigar qual loja Alura Store deveria ser vendida por 
 - Identificação da loja 1 obtendo a melhor faturamento e da loja 4 tendo o pior resultado comparando todas as lojas.
 - Análise dos produtos mais vendidos e dos menos vendidos por categoria em cada loja.
 - A **Loja 1** tem pior avaliação média, mas alto volume de vendas.
-- A loja com pior desempenho geral e mais indicada para ser vendida é a Loja 4.
+- A loja com pior desempenho geral e representa 23,58% do faturamento total, abaixo da média esperada (25%). e mais indicada para ser vendida é a Loja 4.
 
 ## Conclusão: A loja 4 deve ser vendida
 - O menor faturamento entre todas
